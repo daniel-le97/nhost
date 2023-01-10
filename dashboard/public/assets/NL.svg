@@ -1,5 +1,1 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="3" width="24" height="18" rx="1" fill="white"/>
-<rect width="24" height="6" transform="translate(0 15)" fill="#21468B"/>
-<rect width="24" height="6" transform="translate(0 3)" fill="#AE1C28"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><rect width="24" height="18" y="3" fill="#fff" rx="1"/><rect width="24" height="6" fill="#21468B" transform="translate(0 15)"/><rect width="24" height="6" fill="#AE1C28" transform="translate(0 3)"/></svg>
